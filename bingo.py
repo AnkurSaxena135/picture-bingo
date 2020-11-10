@@ -5,10 +5,10 @@ import pygame
 
 
 SCREEN_TITLE = "Halloween Bingo"
-SCREEN_W = 1450
-SCREEN_H = 800
+SCREEN_W = 1150
+SCREEN_H = 700
 RGB_WHITE = (250, 250, 250)
-IMAGE_ZERO_POS = (150, 50)
+IMAGE_ZERO_POS = (0, 0)
 
 
 def get_paths_from_folder(folder) -> list:
